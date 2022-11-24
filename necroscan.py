@@ -113,9 +113,9 @@ if not os.path.exists("FuckBot.ini"):
 
 
 """
- Author: Ilham Putra H (iDevXploit) <admin_kuli@idevxploit.io>
- Author: Malaikat Bounty (0x0verfl0w) <b4p3r_0verfl0w@idevxploit.io>
- Version: 1.0 Beta (17-01-2021)
+ Author: CYBERDEATH_183
+ 
+ Version: 1.0 Beta (20-11-2022)
  
  Note: Kami Tidak Sepenuhnya Menggunakan Akal Dan Pikiran Kami Saat Membuat Bot Bangsad Ini
 """
